@@ -9,7 +9,9 @@ To continue your project on top of this, clone this code and do following. (Assu
 
 * Go to a directory workspace and create new virtual environment by `virtualenv <ENV-NAME>`
 
-* activate environment with `source <ENV-DIRECTORY>/bin/activate`
+* activate environment with 
+    Linux/Unix - `source <ENV-DIRECTORY>/bin/activate`
+    Windows  - <FULL-PATH-TO-ENV-DIRECTORY>/bin/activate
 
 * do `easy_install pip`
 
